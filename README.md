@@ -1,2 +1,2 @@
 # perlin-player
-play around with perlin nouse
+play around with perlin noise
